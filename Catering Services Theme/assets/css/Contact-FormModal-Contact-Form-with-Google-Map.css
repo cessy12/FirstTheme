@@ -1,0 +1,29 @@
+.static-map {
+  margin-bottom:20px;
+}
+
+@media (max-width: 768px) and (min-width: 767px) {
+  #contactForm .static-map img {
+    width:100%;
+  }
+}
+
+.row.backmar {
+  margin:0px 10px;
+  padding-bottom:50px;
+}
+
+.navbar.navbar-default.navigation-clean-search {
+}
+
+.navbar.navbar-default.cessynav {
+  background:transparent;
+  border:none;
+  box-shadow:none;
+}
+
+.header-cessy {
+  width:100%;
+  /*position:fixed;*/
+}
+
